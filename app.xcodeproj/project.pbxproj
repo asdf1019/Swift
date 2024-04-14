@@ -16,6 +16,7 @@
 		F14E84E92BCB9AD400681CC5 /* appTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F14E84E82BCB9AD400681CC5 /* appTests.swift */; };
 		F14E84F32BCB9AD400681CC5 /* appUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F14E84F22BCB9AD400681CC5 /* appUITests.swift */; };
 		F14E84F52BCB9AD400681CC5 /* appUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F14E84F42BCB9AD400681CC5 /* appUITestsLaunchTests.swift */; };
+		F14E85022BCBC50600681CC5 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = F14E85012BCBC50600681CC5 /* File.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		F14E84EE2BCB9AD400681CC5 /* appUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = appUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F14E84F22BCB9AD400681CC5 /* appUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = appUITests.swift; sourceTree = "<group>"; };
 		F14E84F42BCB9AD400681CC5 /* appUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = appUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F14E85012BCBC50600681CC5 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		F14E84C52BCB9AD200681CC5 = {
 			isa = PBXGroup;
 			children = (
+				F14E85012BCBC50600681CC5 /* File.swift */,
 				F14E84D02BCB9AD200681CC5 /* app */,
 				F14E84E72BCB9AD400681CC5 /* appTests */,
 				F14E84F12BCB9AD400681CC5 /* appUITests */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F14E84D62BCB9AD200681CC5 /* ViewController.swift in Sources */,
+				F14E85022BCBC50600681CC5 /* File.swift in Sources */,
 				F14E84D22BCB9AD200681CC5 /* AppDelegate.swift in Sources */,
 				F14E84D42BCB9AD200681CC5 /* SceneDelegate.swift in Sources */,
 			);
